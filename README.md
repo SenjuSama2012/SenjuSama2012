@@ -8,7 +8,7 @@ I'm a United States Air Force Veteran. I'm medically retired and I worked Aircra
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [j.senju1919@gmail.com](mailto:j.senju1919@gmail.com)
-* 🧠  I'm learning Rust VST Development, WASM w/ Rust, Solona Blockchain Development
+* 🧠  I'm learning Rust VST Development, WASM w/ Rust, and Web Development
 * 🤝  I'm open to collaborating on Rust Projects and Solana Blockchain Projects
 
 <a href="https://www.twitter.com/SenjuSama2012" target="_blank" rel="noreferrer"><img
