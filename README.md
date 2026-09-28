@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jahmal Camp
 ===================================================================================================================================
 
-Rust Developer 🦀 | Web Developer 🌎| Game Developer 💱
+Rust Developer 🦀 | Digital Writier 🌎|
 -----------------------------------------------
 
 I'm a United States Air Force Veteran. I'm medically retired and I worked Aircraft Structural Maintenance. Since being medically separated was on the horizon, I've spent my time pursuing my interest in software development. I instantly gravitated towards the Rust programming language instantly. The innovations, community and potential Rust has on the programming world and Web 3.0 made me jump into learning. Since starting, I've learned how to work towards programming goals, self-taught regiments, and productivity on my own. Joining Web Development, Software Development, and Web 3.0 communities reminds me of very much of great teamwork and opportunities you get share with those who believe and pursue similar goals as you do. In my military career, I grew within my peers from being a worker up to being a Supervisor over other peers and handling my own section/team for my leadership. I streamlined processes and engaged in operations with my colleagues. Being a Supervisor for 4 years has been an amazing experience. I learned most from taking lead and being a student of those on my team. Since starting Software Development, I've engaged mainly with the Rust programming language. I've touched Rocket and Yew Frameworks for Rust. WebAssembly is interesting for me so I also engaged in Web Development skills like HTML5, CSS (Tailwind CSS), JavaScript, React.js, and Next.js. To learn these skills and be productive in them, I'm proficient in Git, GitHub, and Visual Studio Code as an IDE. I've developed project management processes inside of Notion's management systems.
 
-* 🌍  I'm based in Atlanta, GA
-* ✉️  You can contact me at [j.senju@gmail.com](mailto:j.senju@gmail.com)
-* 🧠  I'm learning Rust Development, Web Development & WASM w/ Rust
-* 🤝  I'm open to collaborating on I'm open to collaborating on Rust Projects, Web 3.0 Projects, Game Development, and Audio/Music Projects
+* 🌍  I'm based in the Austin, TX area!
+* ✉️  You can contact me at [work.senju@pm.me](mailto:work.senju@pm.me)
+* 🧠  I'm learning Software Development w/ Rust as the core.
+* 🤝  I'm open to collaborating on I'm open to collaborating on Rust Projects, Digital Writing Collaboration, Educational Software Projects
 
 <a href="https://www.github.com/SenjuSama2012" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SenjuSama2012?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
