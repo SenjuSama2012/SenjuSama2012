@@ -15,10 +15,9 @@ Most of what matters to me dearly, lives there — First Principles, Trade-offs,
 
 This GitHub is the workshop. Repos here are tools and experiments, often built agentically, meant to be cloned and used. Older learning repos from 2022 are gone.
 
-- Rust when the problem needs it
-- Local agents and tooling around research, drafting, and provenance
-- Educational software people can actually take
-
+* 🦀 Rust when the problem needs it
+* 🤖 Local agents and tooling around research, drafting, and provenance
+* 🤓 Educational software people can actually take
 * 🛩️  I'm a United States Air Force Veteran
 * 🌍  I'm based in the Austin, TX area!
 * ✉️  You can contact me at [work.senju@pm.me](mailto:work.senju@pm.me)
